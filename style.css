@@ -1,5 +1,3 @@
-/* CSS rules are kept repetitive so that you can get CSS rules for each button easily :) */
-
 * {
   user-select: none;
   -webkit-tap-highlight-color: transparent;
